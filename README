@@ -1,0 +1,14 @@
+Name: Pradyumna Kaushik
+------------------------------
+
+Notes on the SharedPtr program
+------------------------------
+My program has memory leaks so I have commented out the abort statements that are present after basic_test1(), basic_test2() and threaded_test().
+I have included the test.cpp (with the commented memory leak abort statements).
+
+Instructions to compile and run the programs
+--------------------------------------------
+
+	1. Run the SharedPtr.hpp - Type the following command,
+		g++ test.cpp -o test.o -std=c++11 -ldl -lpthread
+
