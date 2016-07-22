@@ -2,6 +2,7 @@
  * Usage: -t secs
  *   where secs is how long to run the thread test for.  Defaults
  *   to 15 seconds.
+ * Author: Professor Kenneth Chiu - Binghamton University
  */
 
 
