@@ -6,6 +6,8 @@ Notes on the SharedPtr program
 My program has memory leaks so I have commented out the abort statements that are present after basic_test1(), basic_test2() and threaded_test().
 I have included the test.cpp (with the commented memory leak abort statements).
 
+The test.cpp program is written by Prof. Kenneth Chiu at Binghamton University, under whom I took the course.
+
 Instructions to compile and run the programs
 --------------------------------------------
 
